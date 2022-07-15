@@ -1,0 +1,41 @@
+
+
+ .bg-color-green {
+
+background-color: #385170 !important;
+color:#ffffff !important;
+    
+ }
+
+ .bg-color-dark-blue {
+
+    background-color: #142D4C !important;   
+    
+    }
+ .bg-color-lg-blue {
+
+background-color: #9FD3C7 !important;   
+
+}
+
+.bg-color-grey{
+
+background-color:#ECECEC !important;
+
+
+}
+
+
+
+.cards-size {
+
+min-height: 280px !important;
+width: 20rem;
+margin: 1.5rem;
+
+}
+
+.form-margin{
+
+    margin: 1rem;
+}
